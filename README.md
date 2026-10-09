@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1678-goal-parser-interpretation](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1773-count-items-matching-a-rule](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Stack
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
+## Array
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
